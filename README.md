@@ -93,9 +93,9 @@ Users can dynamically adjust the date range to observe trends over time.
 ---
 
 ## 🛠️ Tools & Technologies
-- Data Visualization: Power BI  
-- Data Source: NYC Traffic Accident Records  
-- Analysis Techniques: Aggregation, time-series analysis, categorical comparison  
+- Data Visualization: Microsoft Excel  
+- Data Source: Maven Analytics - NYC Traffic Accident Dataset  
+- Analysis Techniques: Aggregation, DAX, time-series analysis, categorical comparison  
 
 ---
 
